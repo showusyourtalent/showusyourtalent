@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: 'https://show-us-your-talent-backend-1.onrender.com/api',
+  baseURL: 'https://showusyourtalent-zvnl.vercel.app',
   headers: {
     'Content-Type': 'application/json',
     'Accept': 'application/json',
