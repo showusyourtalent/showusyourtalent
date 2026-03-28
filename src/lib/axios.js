@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = import.meta.env.VITE_API_URL || 'https://show-us-your-talent-backend-1.onrender.com/api';
+const API_URL = import.meta.env.VITE_API_URL || 'https://showusyourtalent-zvnl.vercel.app';
 
 const axiosInstance = axios.create({
   baseURL: API_URL,
