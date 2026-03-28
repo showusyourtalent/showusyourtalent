@@ -13,7 +13,7 @@ const getBaseURL = () => {
   }
   
   // 3. Par défaut : TOUJOURS le backend Render
-  return 'https://show-us-your-talent-backend-1.onrender.com/api';
+  return 'https://showusyourtalent-zvnl.vercel.app';
 };
 
 const API_BASE_URL = getBaseURL();
