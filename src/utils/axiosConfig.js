@@ -13,7 +13,7 @@ const getBaseURL = () => {
   }
   
   // 3. Par défaut : TOUJOURS le backend Render
-  return 'https://showusyourtalent-zvnl.vercel.app';
+  return 'https://show-us-your-talent-backend-main-qouoel.free.laravel.cloud/api';
 };
 
 const API_BASE_URL = getBaseURL();
